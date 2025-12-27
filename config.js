@@ -1,0 +1,23 @@
+export const nameBand = 'MASTERBOY';
+export let nameSongs = [
+  'FEEL THE HEAT OF THE NIGHT' /*1*/,
+  'I GOT TO GIVE IT UP' /*2*/,
+  'EVERYBODY NEEDS SOMEBODY' /*3*/,
+  'MISTER FEELING' /*4*/,
+  'LAND OF DREAMING' /*5*/,
+  "ANYBODY (MOVIN' ON)" /*6*/,
+  'GENERATION OF LOVE' /*7*/,
+  'IS THIS THE LOVE' /*8*/,
+  'SHOW ME COLOURS' /*9*/,
+  'JUST FOR YOU' /*10*/,
+  'DIFFERENT DREAM' /*11*/,
+  'NIGHTS ON BROADWAY' /*12*/,
+  'DANCE TO THE BEAT' /*13*/,
+  "DANCIN' FOREVER" /*14*/,
+  'FEEL THE HEAT 2000' /*15*/,
+  'LA OLA HAND IN HAND' /*16*/,
+  'CHILDREN OF THE NIGHT' /*17*/,
+  'GIVE ME YOUR LOVE' /*18*/,
+  'FEEL THE FIRE' /*19*/,
+  'I WANT TO BREAK FREE' /*20*/
+];
